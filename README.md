@@ -3,13 +3,13 @@
 
 ### 📁 디렉토리 구조
 ```
-data                크롤링 데이터를 저장하는 폴더
+data                  크롤링 데이터를 저장하는 폴더
 episode.py	        작품별 에피소드 데이터 크롤러
 naver_recommend.py	키워드별 추천웹툰 크롤러
 popular.py	        인기급상승 만화 목록 정보 크롤러
 realtime.py	        실시간 인기만화 목록 정보 크롤러
 webtoon.py	        웹툰 기본 정보 수집
-yearly.py	          연도별 웹툰 목록 정보 크롤러
+yearly.py	         연도별 웹툰 목록 정보 크롤러
 ```
 
 ### ☠️ 주의
